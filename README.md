@@ -13,5 +13,5 @@ I am an Information Technology student at Sunway University, specializing in ful
 * **[SkillBridge Portal](https://github.com/AliTudaSuda/SkillBridge-Portal):** A multi-role talent acquisition platform showcasing core web programming, session management, and relational data mapping.
 
 ### 📫 Let's Connect!
-* **LinkedIn:** https://www.linkedin.com/in/ali-gasanov-3381473bb/
+* **LinkedIn:** www.linkedin.com/in/algsnvv
 * **Email:** gali42616@gmail.com
